@@ -4,7 +4,6 @@ package br.com.fiap.gitobank.model;
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.List;
-import java.util.UUID;
 
 public class ClientePessoaFisica extends PessoaCliente {
 
